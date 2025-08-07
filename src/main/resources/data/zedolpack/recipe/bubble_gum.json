@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "123"
+  ],
+  "key": {
+    "1": [
+      "minecraft:sugar"
+    ],
+    "2": [
+      "minecraft:slime_ball"
+    ],
+    "3": [
+      "minecraft:pink_dye"
+    ]
+  },
+  "result": {
+    "id": "zedolpack:bubble_gum",
+    "count": 3
+  }
+}

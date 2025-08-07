@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "n#n",
+    " / "
+  ],
+  "key": {
+    "#": ["minecraft:magma_block"],
+    "n": ["minecraft:netherite_ingot"],
+    "/": ["minecraft:blaze_rod"]
+  },
+  "result": {
+    "id": "zedolpack:destruction_sword"
+  }
+}
